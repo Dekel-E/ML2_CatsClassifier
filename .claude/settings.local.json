@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(\"c:\\Users\\admin1\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe\" big_cat_model.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
